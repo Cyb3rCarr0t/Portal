@@ -1,68 +1,70 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1>PurpleAdmin-Free-Admin-Template</h1>
+Purple Admin is a free responsive admin template built with Bootstrap 4. The template has colorful, attractive yet simple and elegant design. The template is well crafted, with all the components neatly and carefully designed and arranged within the template. <br>
 
-## Available Scripts
+Purple Admin is packed with all the features that fit your needs but not cramped with components you would not even use. It is an excellent fit to build admin panels, e-commerce systems,  project management systems, CMS or CRM.
 
-In the project directory, you can run:
+<a href="http://www.bootstrapdash.com/demo/purple-admin-free" target="_blank"><img src="screenshot.jpg"></a>
 
-### `npm start`
+Although the template has a design like none other, it is easily customizable to suit your requirements. Purple Admin comes with a clean and well-commented code that makes it easy to work with the template. Thus making it an ideal pick for jump starting your project.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+<h1>Credits:</h1>
 
-### `npm test`
+- Bootstrap 4
+- Material Design Icons
+- jQuery
+- Gulp
+- Chart.js
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h1>Browser Support:</h1>
 
-### `npm run build`
+Purple Admin is designed to work flawlessly with all the latest and modern web browsers.
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Chrome (latest)
+- FireFox (latest)
+- Safari (latest)
+- Opera (latest)
+- IE10+  
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+<h1>License Information:</h1>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+Purple Admin is released under MIT license. Purple Admin is a free Bootstrap 4 admin template developed from BootstrapDash. Feel free to download it, use it, share it, get creative with it.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<h1>How to use Purple Admin?</h1>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+1 - Click the Clone or Download button in GitHub and download as a ZIP file or you can enter the command git clone https://github.com/BootstrapDash/PurpleAdmin-Free-Admin-Template.git in you terminal to get a copy of this template.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+2 - After the files have been downloaded you will get a folder with all the required files
 
-## Learn More
+3 - You can install all the dependencies in the template by running the command npm install. All the required files are in the node modules.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+4 - Find the file named index.html, check what all components you need. Open the file in a text editor and you can start editing.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+5 - Now that your project has now kick-started, all you need to do now is to code, code, and code to your heart's content.
 
-### Code Splitting
+<h1>How to Contribute?:</h1>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
+We love your contributions and we welcome them wholeheartedly. We believe the more the merrier.
+To contribute make sure you have a Node.js and npm installed. Now run the command gulp --version. If the command returns with the Gulp version number, it means you have Gulp installed. If not you need to run the command npm install --global gulp-cli to install Gulp.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+<h2>Next</h2>
 
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+After Gulp has been installed, follow the steps below to contribute.
+  <br>
+  <br>
+	1 - Fork and clone the repo of Purple Admin.
+  <br>
+	2 - Run the command npm install to install all the dependencies.
+  <br>
+	3 - Enter the command gulp serve. This will open Purple Admin in your default browser.
+  <br>
+	4 - Make your valuable contribution
+  <br>
+	5 - Submit a pull request.
+  <hr>
+	Do you need a template with more features and functionalities? Get more with our collection of the premium template with more plugins, eye catching animations, UI components, and sample pages all fitting together with a high-quality design.
+Visit
+  <a href="https://www.bootstrapdash.com" target="_blank">https://www.bootstrapdash.com</a> for more admin templates.

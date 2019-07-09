@@ -1,33 +1,37 @@
 {
-  "name": "portal",
-  "version": "0.1.0",
-  "private": true,
+  "name": "purple_admin",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.html",
   "dependencies": {
-    "purple_admin": "file:public/PurpleAdmin-Free-Admin-Template-master",
-    "react": "^16.8.6",
-    "react-bootstrap": "^1.0.0-beta.9",
-    "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "bootstrap": "^4.3.1",
+    "chart.js": "^2.8.0",
+    "del": "^4.1.1",
+    "gulp-sourcemaps": "^2.6.5",
+    "jquery": "^3.4.1",
+    "mdi": "^2.2.43",
+    "perfect-scrollbar": "^1.4.0",
+    "popper.js": "^1.15.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.16.0",
+    "compass-mixins": "^0.12.10",
+    "gulp": "^3.9.1",
+    "gulp-inject": "4.3.0",
+    "gulp-inject-partials": "^1.0.3",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-sass": "^2.3.2",
+    "minimatch": "^3.0.4",
+    "run-sequence": "^1.2.2",
+    "gulp-concat": "^2.6.1",
+    "merge-stream": "^1.0.1"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  }
+  "author": "bootstrapdash",
+  "url": "http://www.bootstrapdash.com/",
+  "copyright": "",
+  "license": ""
 }
